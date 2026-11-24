@@ -1,0 +1,10 @@
+streamlit
+groq
+python-dotenv
+pandas
+numpy
+pydantic>=2.7
+ddgs
+requests
+scikit-learn
+matplotlib
