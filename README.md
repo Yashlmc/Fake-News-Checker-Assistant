@@ -95,10 +95,3 @@ python factcheck_evaluator.py
 * **Image/Audio Forwards:** Currently verifies text forwards; future versions can integrate OCR (for screenshot hoaxes) and Whisper STT (for forwarded voice notes).
 * **Snippet-Level Evidence:** Live search snippets may omit full article context; adding full-page fetching for top Tier-1 URLs can further improve nuanced verdict accuracy.
 * **Future Enhancements:** Regional fact-check RSS caching, WhatsApp bot webhook integration, and NLI entailment scoring between claims and retrieved passages.
-
-## Authors & Academic Context
-
-Developed for the **Generative AI — Jury-Based Examination (Final Jury)** at **MIT ADT University, MIT School of Computing, Pune** (Department of Computer Science and Engineering).
-
-* **Team:** `[Group No. / Member Names]`
-* **Faculty Guide:** Prof. Chhaya Mhaske
